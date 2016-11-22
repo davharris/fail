@@ -1,6 +1,7 @@
 #' test
 #' @importFrom rstan stan_model sampling cpp_object_initializer
 #' @importFrom Rcpp cpp_object_initializer
+#' @export
 test = function(){
 
   schools = "
